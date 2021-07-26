@@ -453,6 +453,7 @@ nav{
     }
     .about {
         gap: 50px;
+        padding-bottom: 50px;
     }
     .container{
         grid-template-columns: 70%;
