@@ -54,7 +54,7 @@ header h1 span{
     flex-direction: column;
 }
 .nav-button p{
-    border-radius: 20%;
+    border-radius: 100vh;
     height: 2px;
     width: 2em;
     background-color: white;
