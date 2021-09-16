@@ -135,7 +135,6 @@ header h1 span{
     font-weight: lighter;
 }
 .intro::before{
-    filter: blur(2px);
     content: '';
     position: absolute;
     z-index: -1;
@@ -143,7 +142,7 @@ header h1 span{
     left: 0;
     height: 100%;
     width: 100%;
-    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),url(images/background.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),url(images/background.jpg);
     background-position: center center;
     background-size: 100% 100%;
     background-attachment: fixed;
